@@ -3,7 +3,7 @@
 
 <!--About-->
 ## 👨‍💻 About Me
-I'm a Python Developer and Data Scientist with experience in machine learning, web development, and cloud technologies. Passionate about solving real-world problems using data.
+I'm a Python Developer and Data Scientist with experience in machine learning, back end development, and cloud technologies. Passionate about solving real-world problems using data.
 
 <!--Skills-->
 
